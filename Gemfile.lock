@@ -41,6 +41,8 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
+    jekyll-optional-front-matter (0.3.0)
+      jekyll (~> 3.0)
     jekyll-redirect-from (0.15.0)
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (1.5.2)
@@ -97,6 +99,7 @@ DEPENDENCIES
   html-proofer
   jekyll
   jekyll-gist
+  jekyll-optional-front-matter
   jekyll-redirect-from
   jekyll-theme-cayman
   kramdown
